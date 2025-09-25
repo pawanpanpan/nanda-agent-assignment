@@ -9,6 +9,8 @@ NANDA Agent deployment for homework assignment
 - **Public URL**: http://3.144.161.206:6000
 - **Status**: Successfully deployed and running
 
+## What This Agent Does
+This agent mimic myself as an MBA student and finance enthusiasm
 
 ## Deployment Steps
 1. Launched EC2 instance with security groups configured
