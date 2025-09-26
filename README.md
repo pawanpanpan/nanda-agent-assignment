@@ -10,7 +10,7 @@ NANDA Agent deployment for homework assignment
 - **Status**: Successfully deployed and running
 
 ## What This Agent Does
-This agent mimic myself as an MBA student and finance enthusiasm
+This agent make your message more formal  
 
 ## Deployment Steps
 1. Launched EC2 instance with security groups configured
